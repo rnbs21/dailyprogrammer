@@ -3,7 +3,6 @@ var range = [1, 100];
 
 var pickNumber = function(){
   var result = prompt("Is your number (h)igher, (l)ower or (e)qual "+ currentNumber + ' ?');
-  console.log(result);
 
   if(result != 'e'){
 
