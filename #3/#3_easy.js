@@ -23,6 +23,7 @@ function encrypt(message){
 
 }
 
+//Todo: handle uppercase
 function decrypt(message){
 
   var decryptedMessage = '';
